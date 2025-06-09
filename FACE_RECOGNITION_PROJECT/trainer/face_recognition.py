@@ -13,7 +13,7 @@ font = cv2.FONT_HERSHEY_TRIPLEX
 id = 0
 
 
-names = ['Aravi','Dhanush','Aaditya','Jeevitha','Sam','Hari']
+names = ['Aravi','Dhanush','Jeevitha']
 
 cam = cv2.VideoCapture(0)
 cam.set(3, 640) # set video widht
